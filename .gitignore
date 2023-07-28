@@ -1,18 +1,12 @@
 # Ignore node_modules directory
 node_modules/
 src/
-
+/tailwind.config.js
 
 
 # Ignore log files
 *.log
-*.json
-
-# Ignore temporary files
-*.tmp
 
 # Ignore environment files (you can add more if needed)
-.env
-.env.local
-.env.production
-.env.development
+.json
+
